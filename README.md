@@ -16,7 +16,6 @@
   </a>
 </div>
 
----
 
 ## 🧠 Languages
 
@@ -32,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
 </p>
 
----
 
 ## 🧰 Tools & Frameworks
 
@@ -56,7 +54,6 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" alt="Hugging Face"/>
 </p>
 
----
 
 
 ## 🔥 My Stats
@@ -72,6 +69,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmaneAbder2303&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
----
-
