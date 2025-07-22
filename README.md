@@ -16,14 +16,14 @@
   </a>
 </div>
 
-## 📊 GitHub Activity & Contributions
+## GitHub Activity & Contributions
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmaneAbder2303&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 <details>
-<summary>📊 Detailed GitHub Statistics</summary>
+<summary>Detailed GitHub Statistics</summary>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OthmaneAbder2303&theme=dark&hide_border=true&background=0D1117&stroke=0E4429&ring=0E4429&fire=D73A7B&currStreakLabel=D73A7B" alt="GitHub Streak"/>
@@ -32,7 +32,7 @@
 </div>
 </details>
 
-## 🧠 Languages
+## Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmaneAbder2303&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
-## 🧰 Tools & Frameworks
+## Tools & Frameworks
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
