@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=F0E68C&background=00000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Othmane;Hi+there,+I'm+Othmane;Hey!+Othmane+here" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=500&color=F0E68C&background=00000000&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Othmane;Hi+there,+I'm+Othmane;Hey!+Othmane+here" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F0E68C&background=00000000&center=true&vCenter=true&width=500&lines=AI,+Data+Science+%26+NLP;Full-Stack+Development+%26+Web+Apps;Problem+Solving+%26+Algorithms" alt="Typing SVG" />
 </p>
-
 
 
 
