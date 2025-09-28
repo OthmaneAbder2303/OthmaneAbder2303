@@ -18,12 +18,6 @@
   <a href="https://leetcode.com/u/othmane232004/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/othmane232004">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://g.dev/Othmane-Abderrazik">
-    <img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers Badge"/>
-  </a>
 </div>
 
 ## GitHub Activity & Contributions
