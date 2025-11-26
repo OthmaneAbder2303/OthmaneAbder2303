@@ -84,9 +84,9 @@
 ---
 
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=F0E68C&background=00000000&center=true&vCenter=true&width=600&lines=Bloom+where+you+are+planted;Grow+and+shine+every+day;Make+your+code+a+masterpiece" alt="Typing SVG" />
-  </p>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=F0E68C&background=00000000&center=true&vCenter=true&width=600&lines=Bloom+where+you+are+planted;Make+your+code+a+masterpiece" alt="Typing SVG" />
+</p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OthmaneAbder2303.OthmaneAbder2303" alt="Visitors"/>
 </div>
 
