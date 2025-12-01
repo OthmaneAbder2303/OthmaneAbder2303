@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=500&color=F0E68C&background=00000000&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Othmane;Hi+there,+I'm+Othmane;Hey!+Othmane+here" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Othmane;Hi+there,+I'm+Othmane;Hey!+Othmane+here" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F0E68C&background=00000000&center=true&vCenter=true&width=500&lines=AI,+Data+Science+%26+NLP;Full-Stack+Development+%26+Web+Apps;Problem+Solving+%26+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF9D&background=00000000&center=true&vCenter=true&width=500&lines=AI,+Data+Science+%26+NLP;Full-Stack+Development+%26+Web+Apps;Problem+Solving+%26+Algorithms" alt="Typing SVG" />
 </p>
-
 
 
 <div id="badges" align="center">
@@ -23,14 +22,16 @@
 ## GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmaneAbder2303&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmaneAbder2303&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00FF9D&point=00FFD5&area_color=00D4FF30" alt="GitHub Activity Graph"/>
   <br>
-  <img src="https://streak-stats.demolab.com?user=OthmaneAbder2303&theme=dark&hide_border=true&background=0D1117&stroke=0E4429&ring=0E4429&fire=D73A7B&currStreakLabel=D73A7B" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=OthmaneAbder2303&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00FF9D&currStreakLabel=00FF9D&dates=00FFD5&sideLabels=00D4FF" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=OthmaneAbder2303&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OthmaneAbder2303&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=OthmaneAbder2303&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OthmaneAbder2303&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=00D4FF&text_color=00FF9D" alt="GitHub Trophies"/>
 </div>
+
+
 
 
 ## Languages
@@ -47,7 +48,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmaneAbder2303&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmaneAbder2303&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
 
 ## Tools & Frameworks
@@ -85,8 +86,9 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=F0E68C&background=00000000&center=true&vCenter=true&width=600&lines=Bloom+where+you+are+planted;Make+your+code+a+masterpiece" alt="Typing SVG" />
-</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OthmaneAbder2303.OthmaneAbder2303" alt="Visitors"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00FF9D&background=00000000&center=true&vCenter=true&width=600&lines=Bloom+where+you+are+planted;Make+your+code+a+masterpiece;Code+with+innovation" alt="Typing SVG" />
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=OthmaneAbder2303&color=00D4FF&style=for-the-badge" alt="Visitors"/>
 </div>
 
