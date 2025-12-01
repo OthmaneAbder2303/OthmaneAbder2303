@@ -19,6 +19,7 @@
   </a>
 </div>
 
+
 ## GitHub Activity & Contributions
 
 <div align="center">
@@ -26,9 +27,9 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=OthmaneAbder2303&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00FF9D&currStreakLabel=00FF9D&dates=00FFD5&sideLabels=00D4FF" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=OthmaneAbder2303&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=OthmaneAbder2303&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=00D4FF&text_color=00FF9D" alt="GitHub Trophies"/>
+  <br>
+
 </div>
 
 
