@@ -26,10 +26,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmaneAbder2303&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00FF9D&point=00FFD5&area_color=00D4FF30" alt="GitHub Activity Graph"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=OthmaneAbder2303&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00FF9D&currStreakLabel=00FF9D&dates=00FFD5&sideLabels=00D4FF" alt="GitHub Streak"/>
+  <!-- <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=OthmaneAbder2303&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=00D4FF&text_color=00FF9D" alt="GitHub Trophies"/> -->
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=OthmaneAbder2303&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=00D4FF&text_color=00FF9D" alt="GitHub Trophies"/>
-  <br>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=OthmaneAbder2303&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00FF9D&text_color=00FFD5" alt="GitHub Stats"/>
 </div>
 
 
