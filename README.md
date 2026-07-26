@@ -27,8 +27,6 @@
 
 ## About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/OthmaneAbder2303/OthmaneAbder2303/main/assets/coding.gif" alt="coding gif" onerror="this.style.display='none'"/>
-
 - Currently building **Generative AI & Autonomous Agent** systems
 - Deep diving into **LangGraph, MCP & Multi-Agent Orchestration**
 - Passionate about **MLOps** and shipping AI to production at scale
@@ -115,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmaneAbder2303&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00FF9D&point=00FFD5&area_color=00D4FF30" width="97%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmaneAbder2303&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00FF9D&point=00FFD5&area_color=00D4FF30&cache_seconds=86400" width="97%" alt="GitHub Activity Graph"/>
 
 <br><br>
 
@@ -126,10 +124,10 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=OthmaneAbder2303&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00FF9D&text_color=00FFD5&border_color=00D4FF&hide_border=false" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OthmaneAbder2303&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4FF&icon_color=00FF9D&text_color=00FFD5&border_color=00D4FF&hide_border=false&cache_seconds=86400" width="100%" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmaneAbder2303&layout=compact&theme=dark&hide_border=false&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF&langs_count=8&exclude_repo=github-readme-stats" width="100%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmaneAbder2303&layout=compact&theme=dark&hide_border=false&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF&langs_count=8&exclude_repo=github-readme-stats&cache_seconds=86400" width="100%" alt="Top Languages"/>
 </td>
 </tr>
 </table>
@@ -137,10 +135,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=OthmaneAbder2303&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=00D4FF&text_color=00FF9D" alt="GitHub Trophies"/>
 
 </div>
-
-
-
-
 
 <div align="center">
 
